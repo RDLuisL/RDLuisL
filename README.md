@@ -4,11 +4,11 @@
 <img src="https://i.imgur.com/weNbhGZ.png">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
-[![GitHub commits](https://img.shields.io/github/commit-activity/m/username/repo?label=commits&logo=github)](https://github.com/username/repo/commits/main)
+[![GitHub commits](https://img.shields.io/github/commit-activity/m/username/repo?label=commits&logo=github)](https://github.com/username/repo/commits/main](https://github.com/RDLuisL?tab=repositories)
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)]([https://github.com/ArisGuimera](https://github.com/RDLuisL?tab=followers))
+[![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers))
 
 
 ## Sobre mi
