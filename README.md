@@ -3,10 +3,7 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-<div align="center">
-<h1 align="center"> <a>RDLuisL (Reserch Developer Luis Luna)</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=969329519795306467" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 
