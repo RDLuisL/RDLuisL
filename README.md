@@ -3,8 +3,9 @@
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
-![npm](https://img.shields.io/git/v/linkedin.svg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/devengluisluna)
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/ArisGuimera)
