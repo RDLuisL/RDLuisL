@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 
+[![Commits](https://img.shields.io/badge/commits-$(curl -s https://raw.githubusercontent.com/RDLuisL/RDLuisL/main/commits.txt)-blue)](https://github.com/RDLuisL)
 
 
 
