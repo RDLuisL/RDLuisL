@@ -12,8 +12,7 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 Junior Fullstack Developer
-- <img src="https://img.icons8.com/?size=100&id=8oEts0EtozXf&format=png&color=000000"/>
+- 📲 Junior Fullstack Developer <img src="https://img.icons8.com/?size=20&id=8oEts0EtozXf&format=png&color=000000"/>
 
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
