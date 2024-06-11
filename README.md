@@ -2,7 +2,9 @@
 <h1 align="center"> <a>RDLuisL (Reserch Developer Luis Luna)</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
+
+![npm](https://img.shields.io/npm/v/package-name.svg)
+
 [![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
