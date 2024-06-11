@@ -5,9 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 
-[![Commits](https://img.shields.io/badge/commits-$(curl -s https://raw.githubusercontent.com/RDLuisL/RDLuisL/main/commits.txt)-blue)](https://github.com/RDLuisL)
-
-
 
 [![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers)
 
@@ -24,7 +21,7 @@
 <br>
 
 ## Proyectos *bombitas*
-<table>
+<!--<table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
@@ -110,4 +107,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+ -->
