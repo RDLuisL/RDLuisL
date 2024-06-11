@@ -4,14 +4,16 @@
 <img src="https://i.imgur.com/weNbhGZ.png">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
+[![GitHub commits](https://img.shields.io/github/commit-activity/m/username/repo?label=commits&logo=github)](https://github.com/username/repo/commits/main)
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)]([https://github.com/ArisGuimera](https://github.com/RDLuisL?tab=followers))
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Github Jr Star ⭐ 
 -  <img src="https://img.icons8.com/?size=30&id=8oEts0EtozXf&format=png&color=000000"/>Junior Fullstack Developer
 
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
