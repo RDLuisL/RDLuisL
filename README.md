@@ -8,7 +8,7 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers))
+[![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers)
 
 
 ## Sobre mi
