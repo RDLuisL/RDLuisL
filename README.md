@@ -47,7 +47,11 @@
 
 <!--  Languague badge -->
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+
+<!--  Languague badge -->
+    <img src="https://img.shields.io/badge/Team%20Work-brightgreen" />
 </p>
+
 
 
 
