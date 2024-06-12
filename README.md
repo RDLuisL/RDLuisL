@@ -90,6 +90,8 @@
         </tr>
 </table>
 <!-- End Repositorios -->
+
+
 <!------------------------------------------------------------------------>
 
 <!-- Trophy GIF -->
@@ -108,12 +110,13 @@
 
 <!-- Commits Time Distribution of RDLuisL/RDLuisL -->
 
-    <a href="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution?period=last_1_year&zone=0&repo_id=813710761" target="_blank" style="display: block" align="center">
-      <picture>
-                <source media="(prefers-color-scheme: dark)"srcset="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?period=last_1_year&zone=0&repo_id=813710761&image_size=auto&color_scheme=dark" width="721" height="auto">
-                <img alt="Commits Time Distribution of RDLuisL/RDLuisL"src="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?period=last_1_year&zone=0&repo_id=813710761&image_size=auto&color_scheme=light" width="721" height="auto">
-      </picture>
-    </a>
+ <a href="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution?period=last_1_year&zone=0&repo_id=813710761" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?period=last_1_year&zone=0&repo_id=813710761&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Commits Time Distribution of RDLuisL/RDLuisL" src="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?period=last_1_year&zone=0&repo_id=813710761&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+<!-- END Commits Time Distribution of RDLuisL/RDLuisL -->
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
@@ -122,7 +125,7 @@
 <!-- Last 28 Days Stats -->
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=102940535&activity_type=all" target="_blank" style="display: block" align="center">
       <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=102940535&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=102940535&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto"> <br>
             <img alt="@RDLuisL's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=102940535&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
       </picture>
 </a>
