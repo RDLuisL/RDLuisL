@@ -14,7 +14,7 @@
 <!End Linkedin badge -->
 
 <a src="www.linkedin.com/in/devengluisluna">
-	<img href="	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+	<img href="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </a>
 
 <!------------------------------------------------------------------------>
