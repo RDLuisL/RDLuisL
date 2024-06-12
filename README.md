@@ -10,10 +10,11 @@
 <!Linkedin badge -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 
+<!--Linkedin Prueba badge -->
 <a href = "https://www.linkedin.com/in/devengluisluna" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white" alt="devengluisluna"  /></a>
-<a href="https://www.pinterest.ca/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Linkendin&logoColor=white"/></a>
 
-<!-- End Linkedin badge -->
+<!-- End Prueba Linkedin badge -->
 
 <!-- Pinterest badge -->
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
