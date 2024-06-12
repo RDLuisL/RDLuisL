@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> <a>RDLuisL (Reserch Developer Luis Luna)</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://i.imgur.com/X5pd9mp.png">
 
 
 
