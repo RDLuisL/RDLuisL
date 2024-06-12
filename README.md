@@ -17,6 +17,10 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="LinkedIn">
 </a>
 
+<a href="https://https://cl.pinterest.com/devengluisluna/" target="_blank">
+    <img src="[https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)" alt="LinkedIn">
+</a>
+
 
 </p>
 
