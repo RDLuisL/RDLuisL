@@ -17,8 +17,10 @@
 
 <!-- End Prueba Linkedin badge -->
 
-<!-- Pinterest badge -->
+<!-- Gmail badge -->
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+
+<!-- Pinterest badge -->
 <a href="https://www.pinterest.ca/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <!-- End interest badge -->
 
