@@ -7,8 +7,12 @@
 </div>
 <img align="center" width="100%" src="https://i.imgur.com/X5pd9mp.png">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://ca.slack-edge.com/T0BFXMWMV-U0383P2JYF7-ed018f35fd10-48)
+
+</p>
 
 <!------------------------------------------------------------------------>
 
