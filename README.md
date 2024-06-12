@@ -7,9 +7,9 @@
 </div>
 <img align="center" width="100%" src="https://i.imgur.com/X5pd9mp.png">
 
+<p align="center">
   <!-- Linkedin badge -->
 <!------------------------------------------------------------------------>
-<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 <!End Linkedin badge -->
 
