@@ -23,11 +23,8 @@
 <!-- End interest badge -->
 
 <!--  Watching badge -->
-<p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=RDLuisL&color=brightgreen" alt="watching_count" />
- </p>
  <p align="center">
-<!-- End Watching badge -->
 
 <!--  Focus badge -->
   <img src="https://img.shields.io/badge/Focus-Web%20Developer-brightgreen" />
