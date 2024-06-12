@@ -22,9 +22,6 @@
 <a href="https://www.pinterest.ca/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <!-- End interest badge -->
 <!------------------------------------------------------------------------>
-<p align="center">
-<!--  Watching badge -->
-<img src="https://komarev.com/ghpvc/?username=RDLuisL&color=brightgreen" alt="watching_count" />
 
 <!--  Follower badge -->
 [![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers)
@@ -32,6 +29,9 @@
 <!------------------------------------------------------------------------>
 
 <p align="center">
+    <!--  Watching badge -->
+<img src="https://komarev.com/ghpvc/?username=RDLuisL&color=brightgreen" alt="watching_count" />
+    
 <!--  Focus badge -->
   <img src="https://img.shields.io/badge/Focus-Web%20Developer-brightgreen" />
 
