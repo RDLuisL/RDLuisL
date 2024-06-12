@@ -12,9 +12,10 @@
 <!End Linkedin badge -->
 
 <!--Linkedin Prueba badge -->
-<a href = "https://www.linkedin.com/in/devengluisluna" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white" alt="devengluisluna"  /></a>
-<a href="https://www.linkedin.com/in/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Linkendin&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/devengluisluna" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white" alt="devengluisluna"</a>
 
+
+<a href="https://www.linkedin.com/in/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Linkendin&logoColor=white"/></a>
 <!-- End Prueba Linkedin badge -->
 
 <!-- Gmail badge -->
