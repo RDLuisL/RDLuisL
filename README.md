@@ -13,8 +13,8 @@
  <p align="center">
 
   <img src="https://img.shields.io/badge/Focus-Web%20Developer-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Santiago%20Chile-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers)
