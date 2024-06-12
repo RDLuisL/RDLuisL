@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge">
 </a>
 
+<a href="TU_ENLACE_DE_SLACK" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
+</a>
 
 
 </p>
