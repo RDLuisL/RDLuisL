@@ -145,4 +145,6 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Last 28 Days Stat - End -->
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
