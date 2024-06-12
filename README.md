@@ -1,7 +1,11 @@
 <div align="center">
-<h1 align="center"> <a>RDLuisL (Reserch Developer Luis Luna)</a> 👋</h1>
+    <h1 align="center"> 
+       <a>
+          RDLuisL (Reserch Developer Luis Luna)
+       </a> 👋
+    </h1>
 </div>
-<img src="https://i.imgur.com/X5pd9mp.png">
+<img align="center" width="100%" src="https://i.imgur.com/X5pd9mp.png">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 
