@@ -8,7 +8,7 @@
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=RDLuisL&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 
