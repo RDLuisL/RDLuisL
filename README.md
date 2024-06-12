@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
     <h1 align="center"> 
        <a>
           RDLuisL (Reserch Developer Luis Luna)
@@ -29,6 +29,9 @@
 <!--  Follower badge -->
 <p align="center">
 
+<a href="https://github.com/RDLuis" target="_blank">
+    <img src="https://img.shields.io/github/followers/RDLuis?style=social" alt="GitHub Followers Badge">
+</a>
 
 
 </p>
@@ -99,7 +102,7 @@
 
 <!------------------------------------------------------------------------>
 <!-- Repositorios -->
-<h2>## Repositories</h2>
+<h2>## Some Repositories</h2>
 <!-- Parallax-->
 <table>
         <tr>
