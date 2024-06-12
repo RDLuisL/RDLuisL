@@ -7,6 +7,16 @@
 
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+
 [![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers)
 
 
