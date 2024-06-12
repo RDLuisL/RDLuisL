@@ -5,7 +5,7 @@
        </a> 👋
     </h1>
 </div>
-<img align="center" width="100%" src="https://i.imgur.com/X5pd9mp.png">
+<img align="center" width="1100px" src="https://i.imgur.com/X5pd9mp.png">
 
 <!------------------------------------------------------------------------>
 
