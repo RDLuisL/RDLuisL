@@ -48,28 +48,48 @@
 <!--  Languague badge -->
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 
-<!--  Prueba badge -->
-  <img src="https://img.shields.io/badge/Team%20%26%20Work-brightgreen" />
-
-<!--  Prueba badge -->
-  <img src="https://img.shields.io/badge/Team%20%26%20Work-brightblue" />
-
-
-
-
+</p>
+  
 <!------------------------------------------------------------------------>
-<h2>## Sobre mi</h2>
-<p>
-    - ⭐ Github Jr Star ⭐ 
-    -  <img src="https://img.icons8.com/? <br> size=30&id=8oEts0EtozXf&format=png&color=000000"/>Junior Fullstack Developer<br>
-    - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)<br>
-    - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)<br>
-    - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)<br>
-    - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+<p align="center">
+    
+
+  <img src="https://img.shields.io/badge/Teamwork-blue" />
+
+
+  <img src="https://img.shields.io/badge/Problem%20Solver-blue" />
+
+
+  <img src="https://img.shields.io/badge/Adaptability-blue" />
+
+
+  <img src="https://img.shields.io/badge/Time%20Management-blue" />
+
+
+  <img src="https://img.shields.io/badge/Restless-blue" />
+
+
+  <img src="https://img.shields.io/badge/Self%20Motivaded-blue" />
+
+<img src="https://img.shields.io/badge/Attention%20to%20Details-blue" />
+
+<img src="https://img.shields.io/badge/Resilience-blue" />
+
 </p>
 
 <!------------------------------------------------------------------------>
-<h2>### Tecnologías conocidas👨🏻‍💻</h2>
+<h2>## About Me</h2>
+<p>
+    - ⭐ Github Star ⭐ <br>
+    - Junior Fullstack Developer 👨🏽‍💻 <br> 
+    - Graduated from 4Geeks Developer FullStack 👨🏻‍🎓 <br> 
+    - Background degread Mechanical Engineer 🦾👨🏽‍🔧🏭 <br> 
+    - Graduate of a diploma program in management and business administration 📈💰📊
+    
+</p>
+
+<!------------------------------------------------------------------------>
+<h2>### Technologies Knowledge👨🏻‍💻</h2>
 <!--tech stack icons-->
     <p align="left">
           <a href="https://skillicons.dev">
