@@ -123,9 +123,9 @@
 |<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 <!-- Last 28 Days Stats -->
-<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=102940535&activity_type=all" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=102940535&activity_type=all" target="_blank" style="display: block" align="center"> <br>
       <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=102940535&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto"> <br>
+            <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=102940535&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
             <img alt="@RDLuisL's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=102940535&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
       </picture>
 </a>
