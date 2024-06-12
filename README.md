@@ -52,10 +52,10 @@
 <h2>## Sobre mi</h2>
 <p>
     - ⭐ Github Jr Star ⭐ 
-    -  <img src="https://img.icons8.com/?  size=30&id=8oEts0EtozXf&format=png&color=000000"/>Junior Fullstack Developer
-    - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)
-    - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-    - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
+    -  <img src="https://img.icons8.com/? <br> size=30&id=8oEts0EtozXf&format=png&color=000000"/>Junior Fullstack Developer<br>
+    - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+50k subs)<br>
+    - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)<br>
+    - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)<br>
     - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 </p>
 
