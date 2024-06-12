@@ -21,7 +21,7 @@
 <a href="https://www.pinterest.ca/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
 <!-- End interest badge -->
-
+	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 <!------------------------------------------------------------------------>
 
 <!--  Follower badge --><p align="center">
