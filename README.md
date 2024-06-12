@@ -8,13 +8,13 @@
 <img align="center" width="100%" src="https://i.imgur.com/X5pd9mp.png">
 
 <!------------------------------------------------------------------------>
-
+<div align="center" display="flex">
 <!Linkedin badge -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 <!End Linkedin badge -->
 
 <!------------------------------------------------------------------------>
-<div align="center">
+
 
 <!-- Gmail badge -->
 <a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
