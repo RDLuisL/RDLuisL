@@ -16,9 +16,13 @@
 
 <!------------------------------------------------------------------------>
 
-<!--  Follower badge --><p align="center">
-[![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers)
+<!--  Follower badge -->
+<p align="center">
+
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://tusitioenlazado.com)
+
 </p>
+
 <!------------------------------------------------------------------------>
 
 <p align="center">
