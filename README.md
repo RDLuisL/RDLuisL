@@ -100,24 +100,115 @@
 <!------------------------------------------------------------------------>
 <!-- Repositorios -->
 <h2>## Repositories</h2>
+<!-- Parallax-->
 <table>
         <tr>
             <td width="50%">
                 <div align="center">
-                    <a href="#" target="_blank"><img src="[https://i.imgur.com/Jji0CIE.jpg]" width="400" alt="Curso básico android"></a>
+                    <h3>Parallax Landpage</h3>
+                    <a href="#" target="_blank"><img src="https://i.imgur.com/MpracOx.png" width="400" alt="3_bodies_problem"></a>
                     <p>
-                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>
-                        <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-                        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-                        </a>
                     </p>
-                    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
                 </div>   
             </td>
         </tr>
 </table>
+<!-- END Parallax-->
+
+<!-- Multilanguage Landpage-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>Multilanguage Land Page</h3>
+                    <a href="#" target="_blank"><img src="https://i.imgur.com/ZskI53A.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+<!-- END Multilanguage Landpage-->
+
+<!--Netflix Landpage-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>Netflix Landpage</h3>
+                    <a href="#" target="_blank"><img src="https://i.imgur.com/CdNFgMh.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+<!-- END Netflix Landpage-->
+
+<!--Runners E-commerce Landpage-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>Runners E-commerce</h3>
+                    <a href="#" target="_blank"><img src="https://i.imgur.com/tgBaIHf.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+<!-- END Runners E-commerce Landpage-->
+
+<!--Music Player-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>Music Player</h3>
+                    <a href="#" target="_blank"><img src="https://i.imgur.com/k8s5A7A.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+<!-- END Music Player Landpage-->
+
+<!--Portapholio-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>Portapholio</h3>
+                    <a href="#" target="_blank"><img src="https://i.imgur.com/nVOAoEe.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+<!-- END Portapholio Landpage-->
+
+
 <!-- End Repositorios -->
 
 
