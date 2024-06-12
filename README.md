@@ -10,6 +10,7 @@
 <!Linkedin badge -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devengluisluna)
 <!End Linkedin badge -->
+
 <!--Linkedin Prueba badge -->
 <a href = "https://www.linkedin.com/in/devengluisluna" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white" alt="devengluisluna"  /></a>
 <a href="https://www.linkedin.com/in/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Linkendin&logoColor=white"/></a>
@@ -21,16 +22,24 @@
 <a href="https://www.pinterest.ca/devengluisluna"><img src="https://img.shields.io/badge/-@DevEngLuisLuna-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <!-- End interest badge -->
 
+<!--  Watching badge -->
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=RDLuisL&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
+<!-- End Watching badge -->
 
+<!--  Focus badge -->
   <img src="https://img.shields.io/badge/Focus-Web%20Developer-brightgreen" />
+
+<!--  Livin badge -->
   <img src="https://img.shields.io/badge/Lives-Santiago%20Chile-success" />
+
+<!--  Languague badge -->
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
 
+<!--  Follower badge -->
 [![GitHub followers](https://img.shields.io/github/followers/rdluisl?style=social)](https://github.com/RDLuisL?tab=followers)
 
 
