@@ -60,7 +60,7 @@
 </p>
 
 <!------------------------------------------------------------------------>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2>### Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
     <p align="left">
           <a href="https://skillicons.dev">
@@ -93,7 +93,7 @@
 <!------------------------------------------------------------------------>
 
 <!-- Trophy GIF -->
- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+ <h2>### GitHub Trophies :trophy:</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=RDLuisL&theme=juicyfresh&no-bg=true" />
 <!-- End Trophy GIF -->
 
