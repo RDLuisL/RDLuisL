@@ -111,7 +111,7 @@
                     <h3>Parallax Landpage</h3>
                     <a href="#" target="_blank"><img src="https://i.imgur.com/MpracOx.png" width="400" alt="3_bodies_problem"></a>
                     <p>
-                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <a href="#" target="_blank"/>
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>
                     </p>
@@ -129,7 +129,7 @@
                     <h3>Multilanguage Land Page</h3>
                     <a href="#" target="_blank"><img src="https://i.imgur.com/ZskI53A.png" width="400" alt="3_bodies_problem"></a>
                     <p>
-                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <a href="#" target="_blank"/>
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>
                     </p>
@@ -147,7 +147,7 @@
                     <h3>Netflix Landpage</h3>
                     <a href="#" target="_blank"><img src="https://i.imgur.com/CdNFgMh.png" width="400" alt="3_bodies_problem"></a>
                     <p>
-                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <a href="#" target="_blank"/>
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>
                     </p>
@@ -165,7 +165,7 @@
                     <h3>Runners E-commerce</h3>
                     <a href="#" target="_blank"><img src="https://i.imgur.com/tgBaIHf.png" width="400" alt="3_bodies_problem"></a>
                     <p>
-                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <a href="#" target="_blank"/>
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>
                     </p>
@@ -183,7 +183,7 @@
                     <h3>Music Player</h3>
                     <a href="#" target="_blank"><img src="https://i.imgur.com/k8s5A7A.png" width="400" alt="3_bodies_problem"></a>
                     <p>
-                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <a href="#" target="_blank"/>
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>
                     </p>
@@ -201,7 +201,7 @@
                     <h3>Portapholio</h3>
                     <a href="#" target="_blank"><img src="https://i.imgur.com/nVOAoEe.png" width="400" alt="3_bodies_problem"></a>
                     <p>
-                        <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"/>
+                        <a href="#" target="_blank"/>
                         <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                         </a>
                     </p>
