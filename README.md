@@ -211,9 +211,83 @@
 </table>
 <!-- END Portapholio Landpage-->
 
+<!--Whatsapp-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>Whatsapp Chat Component</h3>
+                    <a href="#" target="_blank"><img src="https://i.imgur.com/kTmCdZL.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+<!-- END Whatsapp-->
+
+<!--Generador de Qr-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>QR Generator</h3>
+                    <a href="https://github.com/RDLuisL/QR-Generator" target="_blank"><img src="https://i.imgur.com/aawBkv8.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+<!-- END Generador de Qr-->
+
+<!-- Scanner QR-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>Scanner QR</h3>
+                    <a href="https://github.com/RDLuisL/QR-Scanner.git" target="_blank"><img src="https://i.imgur.com/jAwNFhk.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+
+<!-- END Scanner QR-->
+
+<!-- Before After Slider-->
+<table>
+        <tr>
+            <td width="50%">
+                <div align="center">
+                    <h3>Before After Slider</h3>
+                    <a href="https://github.com/RDLuisL/Before-After-Slide-Img.git" target="_blank"><img src="https://i.imgur.com/8OIFkcg.png" width="400" alt="3_bodies_problem"></a>
+                    <p>
+                        <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank"/>
+                        <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                        </a>
+                    </p>
+                </div>   
+            </td>
+        </tr>
+</table>
+
+<!-- END Before After Slider-->
 
 <!-- End Repositorios -->
 
+https://i.imgur.com/8OIFkcg.png
 
 <!------------------------------------------------------------------------>
 
