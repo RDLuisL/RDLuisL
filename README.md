@@ -85,14 +85,14 @@
 <p>
     - ⭐ Github Star ⭐ <br>
     - Junior Fullstack Developer 👨🏽‍💻 <br> 
-    - Graduated from 4Geeks Developer FullStack 👨🏻‍🎓 <br> 
-    - Background degread Mechanical Engineer 🦾👨🏽‍🔧🏭 <br> 
-    - Graduate of a diploma program in management and business administration 📈💰📊
+    - Graduated from 4Geeks Developer FullStack Program 👨🏻‍🎓 🇨🇱 <br> 
+    - Background Mechanical Engineer 🦾👨🏽‍🔧🏭 🇻🇪 <br> 
+    - Graduate of a diploma program in Management and Business Administration 📈💰📊 🇮🇪
     
 </p>
 
 <!------------------------------------------------------------------------>
-<h2>### Technologies Knowledge👨🏻‍💻</h2>
+<h2>### Technologies Knowledge 👨🏻‍💻</h2>
 <!--tech stack icons-->
     <p align="left">
           <a href="https://skillicons.dev">
