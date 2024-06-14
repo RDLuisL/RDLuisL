@@ -94,6 +94,7 @@
     <p align="left">
           <a href="#">
             <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,astro,py,mysql,postman,jest,php,ubuntu,linux,windows,dotnet,git,github,vscode,bash,ai,ps&perline=12" />
+
           </a>
     </p>
 
@@ -101,6 +102,35 @@
 <!-- Repositorios -->
 <h2>## Some Repositories</h2>
 <table>
+
+ <tr>
+        <td width="50%">
+            <div align="center">
+                <h3>Brain Manager Responsive 1st View</h3>
+                <a href="https://github.com/JonPobDum/4Geeks_final_front" target="_blank"><img src="https://i.imgur.com/VlOTZzf.png" width="400" alt="brain_manager"></a>
+                <p>
+                    <a href="#" target="_blank">
+                        <img src="https://img.shields.io/badge/FRONTEND%20CODE-000000?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+            </div>
+        </td>
+        <td width="50%">
+            <div align="center">
+                <h3>Brain Manager Responsive 2nd View</h3>
+                <a href="https://github.com/JonPobDum/4Geeks_final_front" target="_blank"><img src="https://i.imgur.com/WWkHHEZ.png" width="400" alt="brain_manager"></a>
+                <p>
+                    <a href="https://github.com/JonPobDum/4Geeks_final_back" target="_blank">
+                        <img src="https://img.shields.io/badge/BACKEND%20CODE-000000?style=for-the-badge&logo=github&logoColor=white">
+                    </a>  <br> <br>
+                 <p align="justify">
+                 Brain Manager, 4Geeks Academy Final Project
+Developed a responsive website using Javascript, React, Python, Flask, SQLAlchemy, and Rest API. The functionality includes time management with a Pomodoro timer and binaural sounds to enhance productivity. The platform records the duration of focus/break cycles and moods, presenting them visually on a dashboard. Git, GitHub, and agile methodologies like Scrum were utilized. HTML, CSS, and Bootstrap were employed for the design.
+                </p>
+            </div>
+        </td>
+    </tr>
+    <!-- --------------------------------------------------------------------------------------------------------------------------- -->
     <tr>
         <td width="50%">
             <div align="center">
@@ -108,7 +138,7 @@
                 <a href="#" target="_blank"><img src="https://i.imgur.com/MpracOx.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="#" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -119,7 +149,7 @@
                 <a href="#" target="_blank"><img src="https://i.imgur.com/ZskI53A.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="#" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -132,7 +162,7 @@
                 <a href="#" target="_blank"><img src="https://i.imgur.com/CdNFgMh.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="#" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -143,7 +173,7 @@
                 <a href="#" target="_blank"><img src="https://i.imgur.com/tgBaIHf.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="#" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -156,7 +186,7 @@
                 <a href="#" target="_blank"><img src="https://i.imgur.com/k8s5A7A.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="#" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -167,7 +197,7 @@
                 <a href="#" target="_blank"><img src="https://i.imgur.com/nVOAoEe.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="#" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -180,7 +210,7 @@
                 <a href="#" target="_blank"><img src="https://i.imgur.com/kTmCdZL.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -191,7 +221,7 @@
                 <a href="https://github.com/RDLuisL/QR-Generator" target="_blank"><img src="https://i.imgur.com/aawBkv8.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -204,7 +234,7 @@
                 <a href="https://github.com/RDLuisL/QR-Scanner.git" target="_blank"><img src="https://i.imgur.com/jAwNFhk.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
@@ -215,7 +245,7 @@
                 <a href="https://github.com/RDLuisL/Before-After-Slide-Img.git" target="_blank"><img src="https://i.imgur.com/8OIFkcg.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank">
-                        <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
             </div>
