@@ -28,12 +28,9 @@
 
 <!--  Follower badge -->
 <p align="center">
-
-<a href="https://github.com/RDLuis" target="_blank">
-    <img src="https://img.shields.io/github/followers/RDLuis?style=social" alt="GitHub Followers Badge">
-</a>
-
-
+    <a href="https://github.com/RDLuis" target="_blank">
+        <img src="https://img.shields.io/github/followers/RDLuisL?style=social" alt="GitHub followers"/>
+    </a>
 </p>
 
 <!------------------------------------------------------------------------>
