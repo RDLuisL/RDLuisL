@@ -94,10 +94,8 @@
     <p align="left">
           <a href="#">
             <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vue,astro,py,mysql,postman,jest,php,ubuntu,linux,windows,dotnet,git,github,vscode,bash,ai,ps&perline=12" />
-
           </a>
     </p>
-
 <!------------------------------------------------------------------------>
 <!-- Repositorios -->
 <h2>## Some Repositories</h2>
