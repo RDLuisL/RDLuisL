@@ -6,35 +6,25 @@
     </h1>
 </div>
 <img align="center" width="100%" src="https://i.imgur.com/X5pd9mp.png">
-
 <p align="center">
-
 <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge">
 </a>
-
 <a href="TU_ENLACE_DE_SLACK" target="_blank">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack Badge">
 </a>
-
-
 </p>
-
 <!------------------------------------------------------------------------>
-
 <!--  Follower badge -->
 <p align="center">
     <a href="https://github.com/RDLuis" target="_blank">
         <img src="https://img.shields.io/github/followers/RDLuisL?style=social" alt="GitHub followers"/>
     </a>
 </p>
-
 <!------------------------------------------------------------------------>
-
 <p align="center">
     <!--  Watching badge -->
 <img src="https://komarev.com/ghpvc/?username=RDLuisL&color=brightgreen" alt="watching_count" />
@@ -47,36 +37,18 @@
 
 <!--  Languague badge -->
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
-
 </p>
-  
 <!------------------------------------------------------------------------>
 <p align="center">
-    
-
   <img src="https://img.shields.io/badge/Teamwork-blue" />
-
-
   <img src="https://img.shields.io/badge/Problem%20Solver-blue" />
-
-
   <img src="https://img.shields.io/badge/Adaptability-blue" />
-
-
   <img src="https://img.shields.io/badge/Time%20Management-blue" />
-
-
   <img src="https://img.shields.io/badge/Restless-blue" />
-
-
   <img src="https://img.shields.io/badge/Self%20Motivaded-blue" />
-
-<img src="https://img.shields.io/badge/Attention%20to%20Details-blue" />
-
-<img src="https://img.shields.io/badge/Resilience-blue" />
-
+  <img src="https://img.shields.io/badge/Attention%20to%20Details-blue" />
+  <img src="https://img.shields.io/badge/Resilience-blue" />
 </p>
-
 <!------------------------------------------------------------------------>
 <h2>## About Me</h2>
 <p>
@@ -85,9 +57,7 @@
     - Graduated from 4Geeks Developer FullStack Program 👨🏻‍🎓 🇨🇱 <br> 
     - Background Mechanical Engineer 🦾👨🏽‍🔧🏭 🇻🇪 <br> 
     - Graduate of a diploma program in Management and Business Administration 📈💰📊 🇮🇪
-    
 </p>
-
 <!------------------------------------------------------------------------>
 <h2>### Technologies Knowledge 👨🏻‍💻</h2>
 <!--tech stack icons-->
@@ -100,7 +70,6 @@
 <!-- Repositorios -->
 <h2>## Some Repositories</h2>
 <table>
-
  <tr>
         <td width="50%">
             <div align="center">
@@ -251,19 +220,12 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
     </tr>
 </table>
 <!-- END Repositorios -->
-
-
 <!-- End Repositorios -->
-
-
-
 <!------------------------------------------------------------------------>
-
 <!-- Trophy GIF -->
  <h2>### GitHub Trophies :trophy:</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=RDLuisL&theme=juicyfresh&no-bg=true" target="_blank"/>
 <!-- End Trophy GIF -->
-
 <!------------------------------------------------------------------------>
 <h2>### ⚙️ &nbsp;GitHub Analytics</h2>
     <p align="center">
@@ -271,9 +233,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
             <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RDLuisL&layout=compact&langs_count=8&theme=algolia" target="_blank"/>
         </a>
     </p>
-
 <!-- Commits Time Distribution of RDLuisL/RDLuisL -->
-
  <a href="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution?period=last_1_year&zone=0&repo_id=813710761" target="_blank" style="display: block" align="center">
       <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-commits-time-distribution/thumbnail.png?period=last_1_year&zone=0&repo_id=813710761&image_size=auto&color_scheme=dark" width="721" height="auto" target="_blank">
@@ -281,11 +241,9 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
       </picture>
 </a>
 <!-- END Commits Time Distribution of RDLuisL/RDLuisL -->
-
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" target="_blank"/>|
-
 <!-- Last 28 Days Stats -->
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=102940535&activity_type=all" target="_blank" style="display: block" align="center"target="_blank"> <br>
       <picture>
@@ -294,10 +252,6 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
       </picture>
 </a>
 <!-- Last 28 Days Stat - End -->
-
-
  <!-- Coder GIF -->
 <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
  <!-- End Coder GIF -->
-
-
