@@ -104,7 +104,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
                 <h3>Parallax Landpage</h3>
                 <a href="#" target="_blank"><img src="https://i.imgur.com/MpracOx.png" width="400" alt="3_bodies_problem"></a>
                 <p>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/RDLuisL/Parallax-Component" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
