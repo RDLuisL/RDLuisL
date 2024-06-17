@@ -113,9 +113,9 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Multilanguage Landpage</h3>
-                <a href="#" target="_blank"><img src="https://i.imgur.com/ZskI53A.png" width="400" alt="3_bodies_problem"></a>
+                <img src="https://i.imgur.com/ZskI53A.png" width="400" alt="3_bodies_problem">
                 <p>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/RDLuisL/Language-Selector" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
@@ -126,9 +126,9 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Netflix Landpage</h3>
-                <a href="#" target="_blank"><img src="https://i.imgur.com/CdNFgMh.png" width="400" alt="3_bodies_problem"></a>
+                <img src="https://i.imgur.com/CdNFgMh.png" width="400" alt="3_bodies_problem">
                 <p>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/RDLuisL/Netflix_trailer" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
