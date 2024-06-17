@@ -120,7 +120,7 @@
                 <p>
                     <a href="https://github.com/JonPobDum/4Geeks_final_back" target="_blank">
                         <img src="https://img.shields.io/badge/BACKEND%20CODE-000000?style=for-the-badge&logo=github&logoColor=white">
-                    </a>  <br> <br>
+                    </a>  <br> 
                  <p align="justify">
                  Brain Manager, 4Geeks Academy Final Project
 Developed a responsive website using Javascript, React, Python, Flask, SQLAlchemy, and Rest API. The functionality includes time management with a Pomodoro timer and binaural sounds to enhance productivity. The platform records the duration of focus/break cycles and moods, presenting them visually on a dashboard. Git, GitHub, and agile methodologies like Scrum were utilized. HTML, CSS, and Bootstrap were employed for the design.
