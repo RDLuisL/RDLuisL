@@ -102,7 +102,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Parallax Landpage</h3>
-                <a href="#" target="_blank"><img src="https://i.imgur.com/MpracOx.png" width="400" alt="3_bodies_problem"></a>
+                <a href="https://github.com/RDLuisL/Parallax-Component" target="_blank"><img src="https://i.imgur.com/MpracOx.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="https://github.com/RDLuisL/Parallax-Component" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -137,7 +137,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Runners E-commerce</h3>
-                <a href="#" target="_blank"><img src="https://i.imgur.com/tgBaIHf.png" width="400" alt="3_bodies_problem"></a>
+                <a href="https://github.com/RDLuisL/E-Commerse-Runners" target="_blank"><img src="https://i.imgur.com/tgBaIHf.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="#" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -152,7 +152,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
                 <h3>Music Player</h3>
                 <a href="#" target="_blank"><img src="https://i.imgur.com/k8s5A7A.png" width="400" alt="3_bodies_problem"></a>
                 <p>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/RDLuisL/Music-Player" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
@@ -174,7 +174,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Whatsapp Chat Component</h3>
-                <a href="#" target="_blank"><img src="https://i.imgur.com/kTmCdZL.png" width="400" alt="3_bodies_problem"></a>
+                <a href="https://github.com/RDLuisL/WhatsApp-Floating-button" target="_blank"><img src="https://i.imgur.com/kTmCdZL.png" width="400" alt="3_bodies_problem"></a>
                 <p>
                     <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
