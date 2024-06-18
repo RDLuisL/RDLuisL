@@ -74,7 +74,7 @@
         <td width="50%">
             <div align="center">
                 <h3>Brain Manager Responsive 1st View</h3>
-                <img src="https://i.imgur.com/VlOTZzf.png" width="400" alt="brain_manager">
+                <img src="https://i.imgur.com/VlOTZzf.png" width="400" alt="brain_manager_1">
                 <p>
                     <a href="https://github.com/JonPobDum/4Geeks_final_front" target="_blank" target="_blank"> <br>
                         <img src="https://img.shields.io/badge/FRONTEND%20CODE-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -85,7 +85,7 @@
         <td width="50%">
             <div align="center">
                 <h3>Brain Manager Responsive 2nd View</h3>
-                <img src="https://i.imgur.com/WWkHHEZ.png" width="400" alt="brain_manager"> <br>
+                <img src="https://i.imgur.com/WWkHHEZ.png" width="400" alt="brain_manager_2"> <br>
                 <p>
                     <a href="https://github.com/JonPobDum/4Geeks_final_back" target="_blank">
                         <img src="https://img.shields.io/badge/BACKEND%20CODE-000000?style=for-the-badge&logo=github&logoColor=white">
