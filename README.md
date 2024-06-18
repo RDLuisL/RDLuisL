@@ -136,10 +136,10 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         </td>
         <td width="50%">
             <div align="center">
-                <h3>Runners E-commerce</h3>
-                <a href="https://github.com/RDLuisL/E-Commerse-Runners" target="_blank"><img src="https://i.imgur.com/tgBaIHf.png" width="400" alt="3_bodies_problem"></a>
+                <h3>Runners E-commerce</h>
                 <p>
-                    <a href="#" target="_blank">
+                    <img src="https://i.imgur.com/tgBaIHf.png" width="400" alt="3_bodies_problem">
+                    <a href="https://github.com/RDLuisL/E-Commerse-Runners" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
@@ -150,7 +150,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Music Player</h3>
-                <a href="#" target="_blank"><img src="https://i.imgur.com/k8s5A7A.png" width="400" alt="3_bodies_problem"></a>
+                <img src="https://i.imgur.com/k8s5A7A.png" width="400" alt="3_bodies_problem">
                 <p>
                     <a href="https://github.com/RDLuisL/Music-Player" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -161,9 +161,8 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Portfolio</h3>
-                <a href="https://github.com/RDLuisL/Personal_Portafolio_Web_Page" target="_blank"><img src="https://i.imgur.com/nVOAoEe.png" width="400" alt="3_bodies_problem"></a>
                 <p>
-                    <a href="#" target="_blank">
+                    <a href="https://github.com/RDLuisL/Personal_Portafolio_Web_Page" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
@@ -174,7 +173,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Whatsapp Chat Component</h3>
-                <a href="https://github.com/RDLuisL/WhatsApp-Floating-button" target="_blank"><img src="https://i.imgur.com/kTmCdZL.png" width="400" alt="3_bodies_problem"></a>
+               <img src="https://i.imgur.com/kTmCdZL.png" width="400" alt="3_bodies_problem">
                 <p>
                     <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -185,9 +184,8 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>QR Generator</h3>
-                <a href="https://github.com/RDLuisL/QR-Generator" target="_blank"><img src="https://i.imgur.com/aawBkv8.png" width="400" alt="3_bodies_problem"></a>
                 <p>
-                    <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank">
+                    <a href="https://github.com/RDLuisL/QR-Generator" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
@@ -198,9 +196,9 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Scanner QR</h3>
-                <a href="https://github.com/RDLuisL/QR-Scanner.git" target="_blank"><img src="https://i.imgur.com/jAwNFhk.png" width="400" alt="3_bodies_problem"></a>
+                <img src="https://i.imgur.com/jAwNFhk.png" width="400" alt="3_bodies_problem">
                 <p>
-                    <a href="https://github.com/RDLuisL/WhatsApp-Floating-button.git" target="_blank">
+                    <a href="https://github.com/RDLuisL/QR-Scanner.git" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
                 </p>
@@ -209,7 +207,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
         <td width="50%">
             <div align="center">
                 <h3>Before After Slider</h3>
-                <a href="https://github.com/RDLuisL/Before-After-Slide-Img.git" target="_blank"><img src="https://i.imgur.com/8OIFkcg.png" width="400" alt="3_bodies_problem"></a>
+                <img src="https://i.imgur.com/8OIFkcg.png" width="400" alt="3_bodies_problem">
                 <p>
                     <a href="https://github.com/RDLuisL/Before-After-Slide-Img" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
