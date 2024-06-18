@@ -162,6 +162,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
             <div align="center">
                 <h3>Portfolio</h3>
                 <p>
+                    <img src="https://i.imgur.com/nVOAoEe.png" width="400" alt="3_bodies_problem">
                     <a href="https://github.com/RDLuisL/Personal_Portafolio_Web_Page" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
@@ -185,6 +186,7 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
             <div align="center">
                 <h3>QR Generator</h3>
                 <p>
+                    <img src="https://i.imgur.com/aawBkv8.png" width="400" alt="3_bodies_problem">
                     <a href="https://github.com/RDLuisL/QR-Generator" target="_blank">
                         <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
                     </a>
