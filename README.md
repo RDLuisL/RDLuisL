@@ -97,7 +97,32 @@ Developed a responsive website using Javascript, React, Python, Flask, SQLAlchem
             </div>
         </td>
     </tr>
-    <!-- --------------------------------------------------------------------------------------------------------------------------- -->
+<!------------------------------------------------------------------>
+<tr>
+        <td width="50%">
+            <div align="center">
+                <h3>LiFoex - Company WebSite</h3>
+                <a href="https://lim-fo-ex-git-main-rdluisls-projects.vercel.app/" target="_blank"><img src="https://i.imgur.com/3LJ46UK.jpg" width="400" alt="3_bodies_problem"></a>
+                <p>
+                    <a href="https://github.com/RDLuisL/Parallax-Component" target="_blank">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+            </div>
+        </td>
+        <td width="50%">
+            <div align="center">
+                <h3>Multilanguage Landpage</h3>
+                <img src="https://i.imgur.com/ZskI53A.png" width="400" alt="3_bodies_problem">
+                <p>
+                    <a href="https://github.com/RDLuisL/Language-Selector" target="_blank">
+                        <img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
+                    </a>
+                </p>
+            </div>
+        </td>
+    </tr>
+<!-----------------------------------------------------------------------> 
     <tr>
         <td width="50%">
             <div align="center">
