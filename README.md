@@ -1,7 +1,7 @@
  <div align="center">
     <h1 align="center"> 
        <a>
-          RDLuisL (Reserch Developer Luis Luna)
+          RDLuisL (Junior Fullstack Luis Luna)
        </a> 👋
     </h1>
 </div>
