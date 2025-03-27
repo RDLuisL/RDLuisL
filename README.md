@@ -5,7 +5,7 @@
        </a> 👋
     </h1>
 </div>
-<img align="center" width="100%" src="http://luislunatech.com/img/DEVELOPER_LINKEDING_BANNER-2.png)">
+<img align="center" width="100%" src="http://luislunatech.com/img/DEVELOPER_LINKEDING_BANNER-2.png">
 <p align="center">
 <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
